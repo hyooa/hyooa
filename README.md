@@ -17,9 +17,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyooa&layout=compact&langs_count=8)](https://github.com/hyooa/github-readme-stats)
 
-<div>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyooa&count_bg=%23696969&title_bg=%23EAEAEA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
+
+### [*🤍 Blog 🤍*](https://blog.naver.com/hyohyo_a/222939628920, "GitHub_꾸미기")
+
 
 
 <!--
